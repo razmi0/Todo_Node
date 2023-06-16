@@ -1,0 +1,30 @@
+button {
+  max-width: 200px;
+  padding: 10px;
+  margin: 10% auto;
+}
+
+a {
+  color: #fff;
+}
+
+nav {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  padding: 20px;
+  margin: 20px;
+}
+
+li {
+  display: block;
+  width: 250px;
+  height: 250px;
+  max-width: 400px;
+  margin: 10% auto;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+}
